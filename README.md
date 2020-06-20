@@ -1,5 +1,5 @@
-# Rumil_Portfolio
-Data Science Portfolio
+# Rumil's Portfolio
+Data Science Projects
 
 ## [Project 1: Sentiment Analysis of Yelp Reviews: Project Overview](https://github.com/Rlegaspi562/Visualization-of-Sentiment-Analysis-of-Yelp-reviews)
 #### Project Goal:
