@@ -7,6 +7,7 @@ In this small project I'm curious to see what reviews say about a nearby ramen s
 #### Data Description
 This data has been scraped from yelp.com for educational/analytical purposes and consists of 315 observations with one variable: Reviews.
 
+![](https://github.com/Rlegaspi562/Rumil_Portfolio/blob/master/images/Yelp%20Project%20Word%20Cloud%20of%20Word%20Count.png)
 
 
 ## [Project 2: Machine-Learning-to-Predict-Diabetes: Project Overview](https://github.com/Rlegaspi562/multiple-logistic-regression-to-predict-diabetes/blob/master/_Pt%204%20logistic%20regression%20to%20predict%20diabetes.ipynb)
@@ -14,3 +15,5 @@ This data has been scraped from yelp.com for educational/analytical purposes and
 As an introduction to data science and to apply my currently learned skills, this project was culminated. The goal of this project is to go through the data science life cycle applying fundamental techniques to a subject topic that I've been curious of - predicting heart disease. Throughout this project I use a basic data science and ML pipeline: - Data cleaning - Exploratory data analysis - Hypothesis testing (chi-square / t-test) - Data modeling - Data analysis of results  This project has allowed me to simply apply what I have learned using multiple logistic regression model in R. 
 #### Data Description:
 The Pima Indians Diabetes dataset was obtained from [Kaggle](https://www.kaggle.com/kumargh/pimaindiansdiabetescsv) containing 768 observations/cases and 9 variables as biological characteristics.  
+
+![](https://github.com/Rlegaspi562/Rumil_Portfolio/blob/master/images/Diabetes%20Project%20Correlogram%20of%20Variables.png)
