@@ -10,13 +10,16 @@ Clustering to see how undergraduate degrees compare in terms of salary over time
 The data used in this notebook is collected from a year-long survey of 1.2 million people with only a bachelor's degree by PayScale Inc., made available by the Wall Street Journal for their article Ivy League's Big Edge: Starting Pay (note this is from 2008).
 ##### Findings:
 * The liberal arts cluster, although may be the lowest and somewhat riskiest majors the upside can be limitless. Also a good question to ponder on is that these majors are typically popular and mainly dominated by among women.
+![](/images/college%20degree%20cluster%203.PNG)
 * The In-Between cluster, as we can see is right in the middle but we can begin to see the higher percentile ranges to reaching higher and higher especially for finance and marketing majors.
+![](/images/college%20degree%20cluster%201.PNG)
 * Lastly, the Over Achievers cluster, typically math, science, and engineering based start and end careers off at the highest salaries, but then again is it surprising? ALso, might be worth exploring why these fields pay so much and why it is typically male dominated as well.
+![](/images/college%20degree%20cluster%202.PNG)
 * Two careers tied for the highest career percent growth: Math & Philosophy.
 
 ##### Keep in mind one's financial destiny will certainly be influenced by numerous other factors including the school attended, location, passion or talent for the subject, and of course the actual career pursued.
 
-![](/images/COVID.png) put image for cluster degree here >>>>>>>>>>>>>
+
 
 ## [Project : Sentiment Analysis of Yelp Reviews: Project Overview](https://github.com/Rlegaspi562/Visualization-of-Sentiment-Analysis-of-Yelp-reviews)
 #### Project Goal:
