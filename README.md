@@ -61,11 +61,11 @@ This data is from [The World Bank](https://www.worldbank.org/) connecting to the
 
 ##### The country with the highest amount of debt at the time of doing this project was China
 
-![](/images/highest%20amount%20of%20debt.png)
+![](/images/highest%20amount%20of%20debt.PNG)
 
 ##### Total Amount of Debt Owed by Countries
 
-![](/images/total%20amount%20of%20debt%20countries.png)
+![](/images/total%20amount%20of%20debt%20countries.PNG)
 
 
 ##### Keep in mind one's financial destiny will certainly be influenced by numerous other factors including the school attended, location, passion or talent for the subject, and of course the actual career pursued.
