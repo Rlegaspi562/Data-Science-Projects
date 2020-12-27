@@ -11,15 +11,15 @@ The data used in this notebook is collected from a year-long survey of 1.2 milli
 ##### Findings:
 * The liberal arts cluster, although may be the lowest and somewhat riskiest majors the upside can be limitless. Also a good question to ponder on is that these majors are typically popular and mainly dominated by among women.
 
-![](/images/college%20degree%20cluster%203.png)
+![](/images/collegedegreecluster%3.png)
 
 * The In-Between cluster, as we can see is right in the middle but we can begin to see the higher percentile ranges to reaching higher and higher especially for finance and marketing majors.
 
-![](/images/college%20degree%20cluster%201.png)
+![](/images/collegedegreecluster%1.png)
 
 * Lastly, the Over Achievers cluster, typically math, science, and engineering based start and end careers off at the highest salaries, but then again is it surprising? Also, might be worth exploring why these fields pay so much and why it is typically male dominated as well.
 
-![](/images/college%20degree%20cluster%202.png)
+![](/images/collegedegreecluster2.png)
 
 * Two careers tied for the highest career percent growth: Math & Philosophy.
 
