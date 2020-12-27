@@ -2,7 +2,7 @@
 Data Science Projects
 
 
-
+<details>
 ## [Project 1: Clustering College Degrees to Explore Salary Outcome](https://github.com/Rlegaspi562/Clustering-College-Degrees-to-Explore-Salary-Outcomes/blob/master/FINAL%20Exploring%20Salary%20Outcomes%20of%20College%20Degrees%20using%20K-Means%20Clustering.ipynb)
 ### Project Goal: 
 Clustering to see how undergraduate degrees compare in terms of salary over time using K Means clustering in R. 
@@ -25,7 +25,7 @@ The data used in this notebook is collected from a year-long survey of 1.2 milli
 
 ##### Keep in mind one's financial destiny will certainly be influenced by numerous other factors including the school attended, location, passion or talent for the subject, and of course the actual career pursued.
 
-
+</details>
 
 ## [Project 2: Sentiment Analysis of Yelp Reviews: Project Overview](https://github.com/Rlegaspi562/Visualization-of-Sentiment-Analysis-of-Yelp-reviews)
 #### Project Goal:
