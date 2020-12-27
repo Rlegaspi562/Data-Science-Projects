@@ -39,15 +39,15 @@ This data has been scraped from yelp.com for educational/analytical purposes and
 
 ##### Frequency of Positive & Negative Sentiment
 
-![](/images/frequency%20of%20positive%20and%20negative%20sentiment.png)
+![](/images/frequency%20of%20positive%20and%20negative%20sentiment.PNG)
 
 ##### Top 10 words Contributing to Positive & Negative Sentiment
 
-![](/images/Top%2010%20words%20contributing%20to%20pos-neg%20sentiment.png)
+![](/images/Top%2010%20words%20contributing%20to%20pos-neg%20sentiment.PNG)
 
 ##### Top 15 Bigrams of Silverlake Ramen Reviews
 
-![](/images/top%2015%20bigrams%20of%20silverlake%20Ramen%20reviews.png)
+![](/images/top%2015%20bigrams%20of%20silverlake%20Ramen%20reviews.PNG)
 
 
 ## [Project 3: Analyzing International Debt Statistics](https://github.com/Rlegaspi562/Analyzing-International-Debt-Statistics/blob/master/notebook.ipynb)
