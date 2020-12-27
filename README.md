@@ -39,7 +39,7 @@ This data has been scraped from yelp.com for educational/analytical purposes and
 
 ##### Frequency of Positive & Negative Sentiment
 
-![](/images/frequency%20of%20positive%20and%20negative%20sentiment.PNG)
+![](/images/posnegfreq.PNG)
 
 ##### Top 10 words Contributing to Positive & Negative Sentiment
 
