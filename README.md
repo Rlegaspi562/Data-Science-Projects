@@ -11,15 +11,15 @@ The data used in this notebook is collected from a year-long survey of 1.2 milli
 ##### Findings:
 * The liberal arts cluster, although may be the lowest and somewhat riskiest majors the upside can be limitless. Also a good question to ponder on is that these majors are typically popular and mainly dominated by among women.
 
-![](/images/college%20degree%20cluster%203.PNG)
+![](/images/college%20degree%20cluster%203.png)
 
 * The In-Between cluster, as we can see is right in the middle but we can begin to see the higher percentile ranges to reaching higher and higher especially for finance and marketing majors.
 
-![](/images/college%20degree%20cluster%201.PNG)
+![](/images/college%20degree%20cluster%201.png)
 
 * Lastly, the Over Achievers cluster, typically math, science, and engineering based start and end careers off at the highest salaries, but then again is it surprising? Also, might be worth exploring why these fields pay so much and why it is typically male dominated as well.
 
-![](/images/college%20degree%20cluster%202.PNG)
+![](/images/college%20degree%20cluster%202.png)
 
 * Two careers tied for the highest career percent growth: Math & Philosophy.
 
@@ -39,15 +39,15 @@ This data has been scraped from yelp.com for educational/analytical purposes and
 
 ##### Frequency of Positive & Negative Sentiment
 
-![](/images/frequency%20of%20positive%20and%20negative%20sentiment.PNG)
+![](/images/frequency%20of%20positive%20and%20negative%20sentiment.png)
 
 ##### Top 10 words Contributing to Positive & Negative Sentiment
 
-![](/images/Top%2010%20words%20contributing%20to%20pos-neg%20sentiment.PNG)
+![](/images/Top%2010%20words%20contributing%20to%20pos-neg%20sentiment.png)
 
 ##### Top 15 Bigrams of Silverlake Ramen Reviews
 
-![](/images/top%2015%20bigrams%20of%20silverlake%20Ramen%20reviews.PNG)
+![](/images/top%2015%20bigrams%20of%20silverlake%20Ramen%20reviews.png)
 
 
 ## [Project 3: Analyzing International Debt Statistics](https://github.com/Rlegaspi562/Analyzing-International-Debt-Statistics/blob/master/notebook.ipynb)
@@ -61,11 +61,11 @@ This data is from [The World Bank](https://www.worldbank.org/) connecting to the
 
 ##### The country with the highest amount of debt at the time of doing this project was China
 
-![](/images/highest%20amount%20of%20debt.PNG)
+![](/images/highest%20amount%20of%20debt.png)
 
 ##### Total Amount of Debt Owed by Countries
 
-![](/images/total%20amount%20of%20debt%20countries.PNG)
+![](/images/total%20amount%20of%20debt%20countries.png)
 
 
 ##### Keep in mind one's financial destiny will certainly be influenced by numerous other factors including the school attended, location, passion or talent for the subject, and of course the actual career pursued.
