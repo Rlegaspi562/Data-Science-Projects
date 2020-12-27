@@ -3,7 +3,7 @@ Data Science Projects
 
 
 
-## [Project : Clustering College Degrees to Explore Salary Outcome](https://github.com/Rlegaspi562/Clustering-College-Degrees-to-Explore-Salary-Outcomes/blob/master/FINAL%20Exploring%20Salary%20Outcomes%20of%20College%20Degrees%20using%20K-Means%20Clustering.ipynb)
+## [Project 1: Clustering College Degrees to Explore Salary Outcome](https://github.com/Rlegaspi562/Clustering-College-Degrees-to-Explore-Salary-Outcomes/blob/master/FINAL%20Exploring%20Salary%20Outcomes%20of%20College%20Degrees%20using%20K-Means%20Clustering.ipynb)
 ### Project Goal: 
 Clustering to see how undergraduate degrees compare in terms of salary over time using K Means clustering in R. 
 #### Data Description:
@@ -27,17 +27,30 @@ The data used in this notebook is collected from a year-long survey of 1.2 milli
 
 
 
-## [Project : Sentiment Analysis of Yelp Reviews: Project Overview](https://github.com/Rlegaspi562/Visualization-of-Sentiment-Analysis-of-Yelp-reviews)
+## [Project 2: Sentiment Analysis of Yelp Reviews: Project Overview](https://github.com/Rlegaspi562/Visualization-of-Sentiment-Analysis-of-Yelp-reviews)
 #### Project Goal:
 In this small project I'm curious to see what reviews say about a nearby ramen shop I frequent. I do basic **sentiment/text analysis** and try to extract some basic visuals I think would be interesting to see from text reviews I scrape from Yelp using R.
 #### Data Description:
 This data has been scraped from yelp.com for educational/analytical purposes and consists of 315 observations with one variable: Reviews.
 
+##### Word Cloud (The more frequent word, the bigger)
+
 ![](/images/YelpCloud.png)
 
+##### Frequency of Positive & Negative Sentiment
+
+![](/images/frequency%20of%20positive%20and%20negative%20sentiment.PNG)
+
+##### Top 10 words Contributing to Positive & Negative Sentiment
+
+![](/images/Top%2010%20words%20contributing%20to%20pos-neg%20sentiment.PNG)
+
+##### Top 15 Bigrams of Silverlake Ramen Reviews
+
+![](/images/top%2015%20bigrams%20of%20silverlake%20Ramen%20reviews.PNG)
 
 
-## [Project : Analyzing International Debt Statistics](https://github.com/Rlegaspi562/Analyzing-International-Debt-Statistics/blob/master/notebook.ipynb)
+## [Project 3: Analyzing International Debt Statistics](https://github.com/Rlegaspi562/Analyzing-International-Debt-Statistics/blob/master/notebook.ipynb)
 ### Project Goal: 
 To gain better familiarity and apply SQL queries to answer and gain insights from data 
 #### Data Description:
@@ -58,19 +71,7 @@ This data is from [The World Bank](https://www.worldbank.org/) connecting to the
 ##### Keep in mind one's financial destiny will certainly be influenced by numerous other factors including the school attended, location, passion or talent for the subject, and of course the actual career pursued.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-## [Project : Early COVID-19 Visualization in R](https://github.com/Rlegaspi562/COVID-19-Visualization-in-R/blob/master/notebook.ipynb)
+## [Project 4: Early COVID-19 Visualization in R](https://github.com/Rlegaspi562/COVID-19-Visualization-in-R/blob/master/notebook.ipynb)
 ### Project Goal: 
 In this project I visualize COVID-19 data pulled on March 17, 2020.
 #### Data Description:
@@ -84,7 +85,7 @@ The [raw data](https://github.com/Rlegaspi562/COVID-19-Visualization-in-R/tree/m
 ![](/images/COVID.png)
 
 
-## [Project : Machine Learning to Predict Diabetes: Project Overview](https://github.com/Rlegaspi562/multiple-logistic-regression-to-predict-diabetes/blob/master/_Pt%204%20logistic%20regression%20to%20predict%20diabetes.ipynb)
+## [Project 5: Machine Learning to Predict Diabetes: Project Overview](https://github.com/Rlegaspi562/multiple-logistic-regression-to-predict-diabetes/blob/master/_Pt%204%20logistic%20regression%20to%20predict%20diabetes.ipynb)
 #### Project Goal:
 As an introduction to data science and to apply my currently learned skills, this project was culminated. The goal of this project is to go through the data science life cycle applying fundamental techniques to a subject topic that I've been curious of - predicting heart disease. Throughout this project I use a basic **data science life cycle and ML pipeline**: - Data cleaning - Exploratory data analysis - Hypothesis testing (chi-square / t-test) - Data modeling - Data analysis of results  This project has allowed me to simply apply what I have learned using **multiple logistic regression** model in R. 
 #### Data Description:
