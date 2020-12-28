@@ -6,7 +6,7 @@ Data Science Projects
 ## [Project 1: Clustering College Degrees to Explore Salary Outcome](https://github.com/Rlegaspi562/Clustering-College-Degrees-to-Explore-Salary-Outcomes/blob/master/FINAL%20Exploring%20Salary%20Outcomes%20of%20College%20Degrees%20using%20K-Means%20Clustering.ipynb)
 ### **Project Goal:** 
 Clustering to see how undergraduate degrees compare in terms of salary over time using K Means clustering in R. 
-#### Data Description:
+### Data Description:
 The data used in this notebook is collected from a year-long survey of 1.2 million people with only a bachelor's degree by PayScale Inc., made available by the Wall Street Journal for their article Ivy League's Big Edge: Starting Pay (note this is from 2008).
 ##### Findings:
 
@@ -29,12 +29,12 @@ The data used in this notebook is collected from a year-long survey of 1.2 milli
 
 
 ## [Project 2: Sentiment Analysis of Yelp Reviews: Project Overview](https://github.com/Rlegaspi562/Visualization-of-Sentiment-Analysis-of-Yelp-reviews)
-#### **Project Goal:**
+### **Project Goal:**
 In this small project I'm curious to see what reviews say about a nearby ramen shop I frequent. I do basic **sentiment/text analysis** and try to extract some basic visuals I think would be interesting to see from text reviews I scrape from Yelp using R.
-#### **Data Description:**
+### **Data Description:**
 This data has been scraped from yelp.com for educational/analytical purposes and consists of 315 observations with one variable: Reviews.
 
-#### **Word Cloud (The more frequent word, the bigger)**
+#### **Word Cloud (The more frequent the word, the bigger)**
 
 ![](/images/YelpCloud.png)
 
@@ -54,7 +54,7 @@ This data has been scraped from yelp.com for educational/analytical purposes and
 ## [Project 3: Analyzing International Debt Statistics](https://github.com/Rlegaspi562/Analyzing-International-Debt-Statistics/blob/master/notebook.ipynb)
 ### Project Goal: 
 To gain better familiarity and apply SQL queries to answer and gain insights from data 
-#### Data Description:
+### Data Description:
 This data is from [The World Bank](https://www.worldbank.org/) connecting to the "international_debt database" using postgreSQL.  
 ##### Findings:
 * There are these things called debt indicator codes which specifiy the type debt a country has.
@@ -75,7 +75,7 @@ This data is from [The World Bank](https://www.worldbank.org/) connecting to the
 ## [Project 4: Early COVID-19 Visualization in R](https://github.com/Rlegaspi562/COVID-19-Visualization-in-R/blob/master/notebook.ipynb)
 ### Project Goal: 
 In this project I visualize COVID-19 data pulled on March 17, 2020.
-#### Data Description:
+### Data Description:
 The [raw data](https://github.com/Rlegaspi562/COVID-19-Visualization-in-R/tree/master/datasets) pulled and arranged by the Johns Hopkins University Center for Systems Science and Engineering (JHU CCSE).
 ##### Findings:
 * The number of new COVID-19 Cases are increasing at an exponential rate.
@@ -87,9 +87,9 @@ The [raw data](https://github.com/Rlegaspi562/COVID-19-Visualization-in-R/tree/m
 
 
 ## [Project 5: Machine Learning to Predict Diabetes: Project Overview](https://github.com/Rlegaspi562/multiple-logistic-regression-to-predict-diabetes/blob/master/_Pt%204%20logistic%20regression%20to%20predict%20diabetes.ipynb)
-#### Project Goal:
+### Project Goal:
 As an introduction to data science and to apply my currently learned skills, this project was culminated. The goal of this project is to go through the data science life cycle applying fundamental techniques to a subject topic that I've been curious of - predicting heart disease. Throughout this project I use a basic **data science life cycle and ML pipeline**: - Data cleaning - Exploratory data analysis - Hypothesis testing (chi-square / t-test) - Data modeling - Data analysis of results  This project has allowed me to simply apply what I have learned using **multiple logistic regression** model in R. 
-#### Data Description:
+### Data Description:
 The Pima Indians Diabetes dataset was obtained from [Kaggle](https://www.kaggle.com/kumargh/pimaindiansdiabetescsv) containing 768 observations/cases and 9 variables as biological characteristics.  
 
 ![](/images/DiabetesCorrelogram.png)
