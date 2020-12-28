@@ -4,22 +4,22 @@ Data Science Projects
 
 
 ## [Project 1: Clustering College Degrees to Explore Salary Outcome](https://github.com/Rlegaspi562/Clustering-College-Degrees-to-Explore-Salary-Outcomes/blob/master/FINAL%20Exploring%20Salary%20Outcomes%20of%20College%20Degrees%20using%20K-Means%20Clustering.ipynb)
-### Project Goal: 
+### **Project Goal:** 
 Clustering to see how undergraduate degrees compare in terms of salary over time using K Means clustering in R. 
 #### Data Description:
 The data used in this notebook is collected from a year-long survey of 1.2 million people with only a bachelor's degree by PayScale Inc., made available by the Wall Street Journal for their article Ivy League's Big Edge: Starting Pay (note this is from 2008).
 ##### Findings:
 * The liberal arts cluster, although may be the lowest and somewhat riskiest majors the upside can be limitless. Also a good question to ponder on is that these majors are typically popular and mainly dominated by among women.
 
-![](/images/college%20degree%20cluster%203.PNG)
+![](/images/clustthree.PNG)
 
 * The In-Between cluster, as we can see is right in the middle but we can begin to see the higher percentile ranges to reaching higher and higher especially for finance and marketing majors.
 
-![](/images/college%20degree%20cluster%201.PNG)
+![](/images/clustone.PNG)
 
 * Lastly, the Over Achievers cluster, typically math, science, and engineering based start and end careers off at the highest salaries, but then again is it surprising? Also, might be worth exploring why these fields pay so much and why it is typically male dominated as well.
 
-![](/images/college%20degree%20cluster%202.PNG)
+![](/images/clusttwo.PNG)
 
 * Two careers tied for the highest career percent growth: Math & Philosophy.
 
@@ -28,26 +28,26 @@ The data used in this notebook is collected from a year-long survey of 1.2 milli
 
 
 ## [Project 2: Sentiment Analysis of Yelp Reviews: Project Overview](https://github.com/Rlegaspi562/Visualization-of-Sentiment-Analysis-of-Yelp-reviews)
-#### Project Goal:
+#### **Project Goal:**
 In this small project I'm curious to see what reviews say about a nearby ramen shop I frequent. I do basic **sentiment/text analysis** and try to extract some basic visuals I think would be interesting to see from text reviews I scrape from Yelp using R.
-#### Data Description:
+#### **Data Description:**
 This data has been scraped from yelp.com for educational/analytical purposes and consists of 315 observations with one variable: Reviews.
 
-##### Word Cloud (The more frequent word, the bigger)
+##### **Word Cloud (The more frequent word, the bigger)**
 
 ![](/images/YelpCloud.png)
 
-##### Frequency of Positive & Negative Sentiment
+##### **Frequency of Positive & Negative Sentiment**
 
 ![](/images/posnegfreq.PNG)
 
-##### Top 10 words Contributing to Positive & Negative Sentiment
+##### **Top 10 words Contributing to Positive & Negative Sentiment**
 
-![](/images/Top%2010%20words%20contributing%20to%20pos-neg%20sentiment.PNG)
+![](/images/top10contribtoposneg.PNG)
 
-##### Top 15 Bigrams of Silverlake Ramen Reviews
+##### **Top 15 Bigrams of Silverlake Ramen Reviews**
 
-![](/images/top%2015%20bigrams%20of%20silverlake%20Ramen%20reviews.PNG)
+![](/images/top15bigrams.PNG)
 
 
 ## [Project 3: Analyzing International Debt Statistics](https://github.com/Rlegaspi562/Analyzing-International-Debt-Statistics/blob/master/notebook.ipynb)
@@ -59,13 +59,13 @@ This data is from [The World Bank](https://www.worldbank.org/) connecting to the
 * There are these things called debt indicator codes which specifiy the type debt a country has.
 * The number of distinct countries the owe are 124.
 
-##### The country with the highest amount of debt at the time of doing this project was China
+##### **The country with the highest amount of debt at the time of doing this project was China**
 
-![](/images/highest%20amount%20of%20debt.PNG)
+![](/images/highestdebt.PNG)
 
-##### Total Amount of Debt Owed by Countries
+##### **Total Amount of Debt Owed by Countries**
 
-![](/images/total%20amount%20of%20debt%20countries.PNG)
+![](/images/totaldebt.PNG)
 
 
 ##### Keep in mind one's financial destiny will certainly be influenced by numerous other factors including the school attended, location, passion or talent for the subject, and of course the actual career pursued.
