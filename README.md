@@ -14,11 +14,11 @@ The data used in this notebook is collected from a year-long survey of 1.2 milli
 
 ![](/images/clustthree.PNG)
 
-### * The In-Between cluster, as we can see is right in the middle but we can begin to see the higher percentile ranges to reaching higher and higher especially for finance and marketing majors.
+##### * The In-Between cluster, as we can see is right in the middle but we can begin to see the higher percentile ranges to reaching higher and higher especially for finance and marketing majors.
 
 ![](/images/clustone.PNG)
 
-### * Lastly, the Over Achievers cluster, typically math, science, and engineering based start and end careers off at the highest salaries, but then again is it surprising? Also, might be worth exploring why these fields pay so much and why it is typically male dominated as well.
+##### * Lastly, the Over Achievers cluster, typically math, science, and engineering based start and end careers off at the highest salaries, but then again is it surprising? Also, might be worth exploring why these fields pay so much and why it is typically male dominated as well.
 
 ![](/images/clusttwo.PNG)
 
@@ -34,19 +34,19 @@ In this small project I'm curious to see what reviews say about a nearby ramen s
 #### **Data Description:**
 This data has been scraped from yelp.com for educational/analytical purposes and consists of 315 observations with one variable: Reviews.
 
-##### **Word Cloud (The more frequent word, the bigger)**
+#### **Word Cloud (The more frequent word, the bigger)**
 
 ![](/images/YelpCloud.png)
 
-##### **Frequency of Positive & Negative Sentiment**
+#### **Frequency of Positive & Negative Sentiment**
 
 ![](/images/posnegfreq.PNG)
 
-##### **Top 10 words Contributing to Positive & Negative Sentiment**
+#### **Top 10 words Contributing to Positive & Negative Sentiment**
 
 ![](/images/top10contribtoposneg.PNG)
 
-##### **Top 15 Bigrams of Silverlake Ramen Reviews**
+#### **Top 15 Bigrams of Silverlake Ramen Reviews**
 
 ![](/images/top15bigrams.PNG)
 
