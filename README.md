@@ -8,7 +8,7 @@ Data Science Projects
 Clustering to see how undergraduate degrees compare in terms of salary over time using K Means clustering in R. 
 ### Data Description:
 The data used in this notebook is collected from a year-long survey of 1.2 million people with only a bachelor's degree by PayScale Inc., made available by the Wall Street Journal for their article Ivy League's Big Edge: Starting Pay (note this is from 2008).
-##### Findings:
+### Findings:
 
 ### * The liberal arts cluster, although may be the lowest and somewhat riskiest majors the upside can be limitless. Also a good question to ponder on is that these majors are typically popular and mainly dominated by among women.
 
@@ -34,6 +34,8 @@ In this small project I'm curious to see what reviews say about a nearby ramen s
 ### **Data Description:**
 This data has been scraped from yelp.com for educational/analytical purposes and consists of 315 observations with one variable: Reviews.
 
+### Findings:
+
 #### **Word Cloud (The more frequent the word, the bigger)**
 
 ![](/images/YelpCloud.png)
@@ -56,7 +58,9 @@ This data has been scraped from yelp.com for educational/analytical purposes and
 To gain better familiarity and apply SQL queries to answer and gain insights from data 
 ### Data Description:
 This data is from [The World Bank](https://www.worldbank.org/) connecting to the "international_debt database" using postgreSQL.  
-##### Findings:
+
+### Findings:
+
 * There are these things called debt indicator codes which specifiy the type debt a country has.
 * The number of distinct countries the owe are 124.
 
@@ -77,7 +81,9 @@ This data is from [The World Bank](https://www.worldbank.org/) connecting to the
 In this project I visualize COVID-19 data pulled on March 17, 2020.
 ### Data Description:
 The [raw data](https://github.com/Rlegaspi562/COVID-19-Visualization-in-R/tree/master/datasets) pulled and arranged by the Johns Hopkins University Center for Systems Science and Engineering (JHU CCSE).
-##### Findings:
+
+### Findings:
+
 * The number of new COVID-19 Cases are increasing at an exponential rate.
 * Whilst China was reaching its apex, the rest of the world was slowly increasing at an exponential rate.
 * Politcal decisions and the way countries report its data play significant roles in the increase of new cases.
