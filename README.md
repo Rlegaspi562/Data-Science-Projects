@@ -27,32 +27,6 @@ The data used in this notebook is collected from a year-long survey of 1.2 milli
 ##### Keep in mind one's financial destiny will certainly be influenced by numerous other factors including the school attended, location, passion or talent for the subject, and of course the actual career pursued.
 
 
-
-## [Project 2: Sentiment Analysis of Yelp Reviews: Project Overview](https://github.com/Rlegaspi562/Visualization-of-Sentiment-Analysis-of-Yelp-reviews)
-### **Project Goal:**
-In this small project I'm curious to see what reviews say about a nearby ramen shop I frequent. I do basic **sentiment/text analysis** and try to extract some basic visuals I think would be interesting to see from text reviews I scrape from Yelp using R.
-### **Data Description:**
-This data has been scraped from yelp.com for educational/analytical purposes and consists of 315 observations with one variable: Reviews.
-
-### Findings:
-
-#### **Word Cloud (The more frequent the word, the bigger)**
-
-![](/images/YelpCloud.png)
-
-#### **Frequency of Positive & Negative Sentiment**
-
-![](/images/posnegfreq.PNG)
-
-#### **Top 10 words Contributing to Positive & Negative Sentiment**
-
-![](/images/top10contribtoposneg.PNG)
-
-#### **Top 15 Bigrams of Silverlake Ramen Reviews**
-
-![](/images/top15bigrams.PNG)
-
-
 ## [Project 3: Analyzing International Debt Statistics](https://github.com/Rlegaspi562/Analyzing-International-Debt-Statistics/blob/master/notebook.ipynb)
 ### Project Goal: 
 To gain better familiarity and apply SQL queries to answer and gain insights from data 
