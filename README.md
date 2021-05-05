@@ -1,6 +1,6 @@
-# Data Science Portfolio
-Data Science Projects
+# Data Science Projects
 
+## A quick synopsis to some of my data science projects.
 
 
 ## [Clustering College Degrees to Explore Salary Outcome](https://github.com/Rlegaspi562/Clustering-College-Degrees-to-Explore-Salary-Outcomes/blob/master/FINAL%20Exploring%20Salary%20Outcomes%20of%20College%20Degrees%20using%20K-Means%20Clustering.ipynb)
