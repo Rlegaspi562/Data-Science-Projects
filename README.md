@@ -1,4 +1,4 @@
-# Rumil's Portfolio
+# Data Science Portfolio
 Data Science Projects
 
 
